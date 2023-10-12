@@ -1,0 +1,55 @@
+Log Number: 1
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt1.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt2.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\folder4
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\txt3.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\folder5
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\txt4.txt
+
+
+Log Number: 2
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt1.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt2.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\folder4
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\txt3.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\folder5
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\txt4.txt
+
+
+Log Number: 1
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt1.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt2.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\folder4
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\txt3.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\folder5
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\txt4.txt
+
+
+Log Number: 3
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt1.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt2.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\folder4
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\txt3.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\folder5
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\txt4.txt
+
+
+Log Number: 4
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt1.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\txt2.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\folder4
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder2\txt3.txt
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\folder5
+Coping file C:\other\An3\Sem2\python\folderSyn\folderCopy\folder3\txt4.txt
+
+
